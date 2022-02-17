@@ -1,5 +1,6 @@
 # ETL with Pandas
----
+Extract, transform, and load data into a database using pandas as the primary transformation tool!
+
 
 *  Data is extracted using the Binance API.
 
